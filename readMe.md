@@ -114,7 +114,7 @@ It is clearly shown in the plot that (i)sepal length & petal length, (ii) sepal 
 [1] [Wikipedia - Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set)\
 [2] [Chartio - What is a scatterplot](https://chartio.com/learn/charts/what-is-a-scatter-plot/)\
 
-###References used in analysis.py:
+### References used in analysis.py:
 [3] [Stackabuse - writing to a file with pythons print function](https://stackabuse.com/writing-to-a-file-with-pythons-print-function/)\
 [4] [Kite - how to color a scatterplot by category using matplotlib in python](https://www.kite.com/python/answers/how-to-color-a-scatter-plot-by-category-using-matplotlib-in-python)\
 [5] [Toward Data Science](https://towardsdatascience.com/how-to-add-text-labels-to-scatterplot-in-matplotlib-seaborn-ec5df6afed7a)\
@@ -123,6 +123,6 @@ It is clearly shown in the plot that (i)sepal length & petal length, (ii) sepal 
 [8] [Real Python - Correlation](https://realpython.com/numpy-scipy-pandas-correlation-python/)\
 [9] [Likegeeks - Seaborn heatmap](https://likegeeks.com/seaborn-heatmap-tutorial/)\
 [10] [Seaborn - Correlation](https://seaborn.pydata.org/examples/many_pairwise_correlations.html)\
-###Unquoted references
+### Unquoted references
 [10] [GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)\
 [11] [Toward Data Science - Iris dataset](https://towardsdatascience.com/eda-of-the-iris-dataset-190f6dfd946d)\ 
